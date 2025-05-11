@@ -1,5 +1,5 @@
 ## Hi there 👋
-고려대 학생 공부 계정
+공부 계정
 <!--
 **jjune5/jjune5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
